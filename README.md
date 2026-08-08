@@ -75,4 +75,4 @@ Figure09: Share Post
 
 # Video Demonstration 
 
-Please note that a 4-5 minutes video is included to the zip file for your reference and prove the application implementation.
+Please note that a 6-7 minutes video is included for your reference and prove the application implementation.
